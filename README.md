@@ -830,6 +830,7 @@ Hands-on practice environments for AI security skills.
 | **Safe Zone** | thyrisAI | Open-source PII detection and guardrails engine. Prevents sensitive data from leaking to LLMs and third-party APIs. | [github.com/thyrisAI/safe-zone](https://github.com/thyrisAI/safe-zone) |
 | **rebuff** | woop | Prompt injection detector using multi-layer detection: heuristics, LLM analysis, and vector similarity against known attacks. (archived May 2025) | [github.com/woop/rebuff](https://github.com/woop/rebuff) |
 | **OpenGuardrails** | openguardrails.com | Open-source runtime security framework for AI agents. Protects against prompt injection, data leakage, and unsafe behavior with a policy-driven control layer. arXiv: [2510.19169](https://arxiv.org/abs/2510.19169) | [openguardrails.com](https://openguardrails.com/) |
+| **ai-evaluation** | Future AGI | Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge, and guardrail scanners for jailbreak, PII, and prompt injection. | [github.com/future-agi/ai-evaluation](https://github.com/future-agi/ai-evaluation) |
 
 ### Model & Supply Chain Security
 
@@ -862,6 +863,7 @@ Hands-on practice environments for AI security skills.
 | **Cisco DefenseClaw** | Cisco | Open-source framework for securing AI agents throughout their lifecycle. Content scanner inspects every message flowing in and out of agent execution loops. Announced RSAC 2026. | [helpnetsecurity.com](https://www.helpnetsecurity.com/2026/02/11/cisco-agentic-ai-protection/) |
 | **Miggo AI-BOM & MCP Monitoring** | Miggo Security | Runtime defense with AI Bill of Materials discovery, behavioral drift detection for agents, and MCP-aware monitoring to flag abnormal tool access and risky chaining patterns. | [securityboulevard.com](https://securityboulevard.com/2026/03/miggo-security-expands-runtime-defense-platform-with-ai-bom-agentic-detection-and-mcp-monitoring/) |
 | **Straiker Defend AI** | Straiker | Real-time runtime security for AI agents. Inspects every prompt, reasoning step, and tool call. Context-aware guardrails with sub-100ms latency. | [straiker.ai](https://www.straiker.ai/products/defend-ai) |
+| **traceAI** | Future AGI | Open-source OpenTelemetry-native tracing for LLM and agent apps with 50+ framework integrations. Production monitoring for prompts, tool calls, and agent runs. | [github.com/future-agi/traceAI](https://github.com/future-agi/traceAI) |
 
 ### Agent Runtime Security & Sandboxing
 
