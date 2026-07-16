@@ -728,6 +728,7 @@ Applied ML-for-security practitioner conference. Annual, Washington D.C. area. P
 | **JailbreakingLLMs (PAIR)** | Chao et al. | Official implementation of the PAIR algorithm. Attacker LLM iteratively refines jailbreak prompts until the target complies — achieving jailbreaks in ~20 queries. CLI supports OpenAI, Anthropic, and Google models via `--attack-model` / `--target-model` / `--judge-model` flags. | [github.com/patrickrchao/JailbreakingLLMs](https://github.com/patrickrchao/JailbreakingLLMs) |
 | **AutoDAN** | Liu et al. (ICLR 2024) | Hierarchical genetic algorithm for generating fluent, stealthy jailbreak prompts that evade perplexity-based filters that block GCG suffixes. Supports Llama-2, Vicuna, GPT-3.5, GPT-4. Full training and evaluation pipeline included. | [github.com/SheltonLiu-N/AutoDAN](https://github.com/SheltonLiu-N/AutoDAN) |
 
+- **Redcells** — Automated adversarial testing platform for LLMs you own or control. OpenAI-compatible target models, iterative attack→refine layers, dashboard + API. https://redcells.net
 ### Adversarial ML Tools
 
 | Tool | By | What It Does | Link |
