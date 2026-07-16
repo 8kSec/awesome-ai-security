@@ -727,6 +727,7 @@ Applied ML-for-security practitioner conference. Annual, Washington D.C. area. P
 | **OpenRT** | AI45Lab | Open-source red teaming framework for multimodal LLMs. 42+ attack methods across white-box and black-box categories, covering text, image, and vision-language models. | [github.com/AI45Lab/OpenRT](https://github.com/AI45Lab/OpenRT) |
 | **JailbreakingLLMs (PAIR)** | Chao et al. | Official implementation of the PAIR algorithm. Attacker LLM iteratively refines jailbreak prompts until the target complies — achieving jailbreaks in ~20 queries. CLI supports OpenAI, Anthropic, and Google models via `--attack-model` / `--target-model` / `--judge-model` flags. | [github.com/patrickrchao/JailbreakingLLMs](https://github.com/patrickrchao/JailbreakingLLMs) |
 | **AutoDAN** | Liu et al. (ICLR 2024) | Hierarchical genetic algorithm for generating fluent, stealthy jailbreak prompts that evade perplexity-based filters that block GCG suffixes. Supports Llama-2, Vicuna, GPT-3.5, GPT-4. Full training and evaluation pipeline included. | [github.com/SheltonLiu-N/AutoDAN](https://github.com/SheltonLiu-N/AutoDAN) |
+| **Redcells** | awdemos | Lightweight, self-hostable AI red cell / pentest agent platform for running security probes against LLM APIs, MCP servers, and AI-infra apps. | [redcells.net](https://redcells.net) |
 
 ### Adversarial ML Tools
 
