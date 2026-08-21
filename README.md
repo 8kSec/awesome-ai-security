@@ -884,6 +884,7 @@ Tools for isolating agent execution and enforcing policy over what agents can ac
 | **AgentLens** | Dreadnode | Agent observability and replay tooling. Captures trajectories in ATIF format, tracks file state changes across sessions. Built for studying multi-turn, multi-session, multi-agent behavior. | [github.com/dreadnode/agent-lens](https://github.com/dreadnode/agent-lens) |
 | **OneCLI** | onecli | Rust HTTP gateway credential vault for AI agents. Intercepts requests and injects API keys transparently — agents never hold raw credentials. AES-256-GCM, per-agent scoped tokens, audit trail. | [github.com/onecli/onecli](https://github.com/onecli/onecli) |
 | **SuperClaw** | SuperagenticAI | Pre-deployment security testing for autonomous AI coding agents. Tests prompt injection, privilege escalation, data exfiltration paths, and insecure code generation. Outputs HTML/JSON/SARIF (GitHub Code Scanning compatible). | [github.com/SuperagenticAI/superclaw](https://github.com/SuperagenticAI/superclaw) |
+| **HOL Guard** | Hashgraph Online | Local-first runtime control for AI coding agents: shell, secret-file reads, MCP server change, and plugin/skill install. Not a complete prompt-injection preventer and not a replacement for SCA or mcp-scan. | [github.com/hashgraph-online/hol-guard](https://github.com/hashgraph-online/hol-guard) |
 
 ### MCP Security
 
