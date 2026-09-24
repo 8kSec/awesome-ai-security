@@ -1069,6 +1069,7 @@ A timeline of publicly documented attacks, exploits, and real-world AI security 
 | **TalEliyahu Disclosed AI Vulnerabilities Tracker** | Tal Eliyahu | Curated, maintained table of named AI system vulnerabilities with CVEs, descriptions, and sources. Covers EchoLeak, MCPoison, RoguePilot, CurXecute, LangGrinch, BodySnatcher, and more. | [github.com/TalEliyahu/Awesome-AI-Security](https://github.com/TalEliyahu/Awesome-AI-Security#publicly-disclosed-vulnerabilities) |
 | **ProtectAI Sightline** | ProtectAI | AI/ML supply chain vulnerability database. CVEs in MLOps infrastructure with remediation advice, Nuclei templates, PoC exploits. | [sightline.protectai.com](https://sightline.protectai.com/) |
 | **AIAAIC Repository** | AIAAIC | Publicly maintained database of AI and algorithmic incidents, controversies, and accountability failures — broader than AIID. | [aiaaic.org/aiaaic-repository](https://www.aiaaic.org/aiaaic-repository) |
+| **Orca AI Incident Archive** | Continuum-AI-Corp | Open database of AI agent security incidents from 2025 onward: prompt injection, agents used offensively, agent supply chain, sandbox escapes, agent-framework CVEs. Every record cites a primary source and flags whether a victim was confirmed and whether AI involvement is confirmed, disputed, or unverified. Narrower than AIID/AIAAIC; JSON/CSV exports, CC BY 4.0. | [github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) |
 
 ---
 
