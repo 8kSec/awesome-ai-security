@@ -433,7 +433,10 @@ Hands-on resources with working code and step-by-step attack execution — not j
 
 | Paper | Authors | Year | Conference / Venue | arXiv |
 |-------|---------|------|--------------------|-------|
+| **FeatureBleed: Inferring Private Enriched Attributes From Sparsity-Optimized AI Accelerators** | Asher et al. | 2026 | IEEE Computer Architecture Letters 2026 | [2602.18304](https://arxiv.org/abs/2602.18304) |
 | **AttenMIA: Attention-Based Membership Inference Attack on LLMs** | Zaree et al. | 2026 | — | [2601.18110](https://arxiv.org/abs/2601.18110) |
+| **GATEBLEED: Exploiting On-Core Accelerator Power Gating for High Performance & Stealthy Attacks on AI** | Kalyanapu et al. | 2025 | MICRO 2025 | [2507.17033](https://arxiv.org/abs/2507.17033) |
+| **THOR: A Non-Speculative Value Dependent Timing Side Channel Attack Exploiting Intel AMX** | Dizani et al. | 2025 | IEEE Computer Architecture Letters 2025 | [2502.17658](https://arxiv.org/abs/2502.17658) |
 | **Depth Gives a False Sense of Privacy: LLM Internal States Inversion** | Dong, Meng, Zhu et al. | 2025 | USENIX Security 2025 | [2507.16372](https://arxiv.org/abs/2507.16372) |
 | **Exploring the Limits of Strong Membership Inference Attacks on Large Language Models** | Hayes, Shumailov et al. (Google DeepMind) | 2025 | — | [2505.18773](https://arxiv.org/abs/2505.18773) |
 | **SoK: Membership Inference Attacks on LLMs are Rushing Nowhere (and How to Fix It)** | Meeus et al. | 2024 | IEEE SaTML 2025 | [2406.17975](https://arxiv.org/abs/2406.17975) |
