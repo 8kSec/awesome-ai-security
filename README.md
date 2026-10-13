@@ -433,6 +433,7 @@ Hands-on resources with working code and step-by-step attack execution — not j
 
 | Paper | Authors | Year | Conference / Venue | arXiv |
 |-------|---------|------|--------------------|-------|
+| **TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify** | Kalyanapu et al. | 2026 | arXiv preprint | [2610.06848](https://arxiv.org/abs/2610.06848) |
 | **FeatureBleed: Inferring Private Enriched Attributes From Sparsity-Optimized AI Accelerators** | Asher et al. | 2026 | IEEE Computer Architecture Letters 2026 | [2602.18304](https://arxiv.org/abs/2602.18304) |
 | **AttenMIA: Attention-Based Membership Inference Attack on LLMs** | Zaree et al. | 2026 | — | [2601.18110](https://arxiv.org/abs/2601.18110) |
 | **GATEBLEED: Exploiting On-Core Accelerator Power Gating for High Performance & Stealthy Attacks on AI** | Kalyanapu et al. | 2025 | MICRO 2025 | [2507.17033](https://arxiv.org/abs/2507.17033) |
