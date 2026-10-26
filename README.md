@@ -893,6 +893,7 @@ Tools for isolating agent execution and enforcing policy over what agents can ac
 | **mcp-guardian** | eqtylab | Manages LLM assistant access to MCP servers with real-time control over agent activity. | [github.com/eqtylab/mcp-guardian](https://github.com/eqtylab/mcp-guardian) |
 | **MCP Audit VSCode Extension** | Agentity | Audit and log all GitHub Copilot MCP tool calls in VSCode centrally. | [github.com/Agentity-com/mcp-audit-extension](https://github.com/Agentity-com/mcp-audit-extension) |
 | **Awesome-MCP-Security** | Puliczek | Curated reference covering everything in the MCP security space: attacks, defenses, tools, CVEs. | [github.com/Puliczek/awesome-mcp-security](https://github.com/Puliczek/awesome-mcp-security) |
+| **Speakeasy control plane** | Speakeasy | MCP gateway applying identity-based tool permissions and per-action policies, with tool-call audit logs. | [github.com/speakeasy-api/gram](https://github.com/speakeasy-api/gram) |
 
 ### AI Code Security
 
