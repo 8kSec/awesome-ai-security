@@ -788,6 +788,7 @@ Hands-on practice environments for AI security skills.
 
 | Environment | Type | What It Teaches | Link |
 |-------------|------|-----------------|------|
+| **Memory Poisoning Lab** | Local teaching lab | Persistent memory poisoning, defense and repair limits using synthetic data and a scripted agent. | [github.com/RishabhPande/memory-poison-lab](https://github.com/RishabhPande/memory-poison-lab) |
 | **Gandalf** | Web game | Prompt injection, progressive difficulty. Good first introduction. | [gandalf.lakera.ai](https://gandalf.lakera.ai/) |
 | **PortSwigger Web Security Academy: Web LLM Attacks** | Free labs | LLM prompt injection, data exfiltration via LLMs, indirect injection. | [portswigger.net/web-security/llm-attacks](https://portswigger.net/web-security/llm-attacks) |
 | **AI GOAT** | Vulnerable lab | Deliberately vulnerable LLM app for practicing injection, data leakage, attack chains. | [github.com/dhammon/ai-goat](https://github.com/dhammon/ai-goat) |
