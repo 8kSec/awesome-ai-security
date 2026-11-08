@@ -433,6 +433,7 @@ Hands-on resources with working code and step-by-step attack execution — not j
 
 | Paper | Authors | Year | Conference / Venue | arXiv |
 |-------|---------|------|--------------------|-------|
+| **SPARSEBLEED: Bypassing Attribute-Inference Defenses via Sparsity Optimizations** | Asher et al. | 2026 | arXiv preprint | [2610.38110](https://arxiv.org/abs/2610.38110) |
 | **AttenMIA: Attention-Based Membership Inference Attack on LLMs** | Zaree et al. | 2026 | — | [2601.18110](https://arxiv.org/abs/2601.18110) |
 | **Depth Gives a False Sense of Privacy: LLM Internal States Inversion** | Dong, Meng, Zhu et al. | 2025 | USENIX Security 2025 | [2507.16372](https://arxiv.org/abs/2507.16372) |
 | **Exploring the Limits of Strong Membership Inference Attacks on Large Language Models** | Hayes, Shumailov et al. (Google DeepMind) | 2025 | — | [2505.18773](https://arxiv.org/abs/2505.18773) |
